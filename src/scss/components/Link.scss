@@ -1,0 +1,12 @@
+.links {
+  display: flex;
+  &__link {
+    padding: 10px 15px;
+    background-color: lime;
+    border-radius: 5px;
+    color: blue;
+    &:not(:first-child) {
+      margin-left: 25px;
+    }
+  }
+}

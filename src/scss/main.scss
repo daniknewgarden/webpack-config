@@ -1,0 +1,22 @@
+@import "mixins";
+@import "fonts";
+@import "vendor";
+@import "vars";
+@import "settings";
+//Components
+@import "./components/Title.scss";
+@import "./components/Subtitle.scss";
+@import "./components/Link.scss";
+
+body {
+  background-color: tomato;
+  color: greenyellow;
+}
+
+.site-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

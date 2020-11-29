@@ -1,4 +1,6 @@
-# Webpack config
+# Webpack config <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" alt="cool emoji" width="5%" style="vertical-align: middle"/>
+
+**Simple Webpack config for you!**
 
 ## Download 👇
 
@@ -18,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `npm build`
 
 Builds the app for production to the `build` folder. 🏗<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It correctly bundles files in production mode and optimizes the build for the best performance.
 
 ### `npm dev`
 

@@ -2,7 +2,27 @@
 
 ## Download 👇
 
+`git clone git@github.com:daniknewgarden/webpack-config.git`
+
 ## How to run? 🏃‍♀️🏃‍♂️🏃‍♀️
+
+### `npm install`
+
+Install dependencies before we run.
+
+### `npm start`
+
+Runs the app in the development mode. 🛠<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### `npm build`
+
+Builds the app for production to the `build` folder. 🏗<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+### `npm dev`
+
+Runs development without running the app on the server. 👷‍<br />
 
 ## Structure 🌲
 
@@ -13,7 +33,6 @@
   - [mail.php](src/assets/mail.php)
 - [**fonts**](src/fonts)
   - [notosans.woff2](src/fonts/notosans.woff2)
-- [index.html](src/index.html)
 - [**js**](src/js)
   - [main.js](src/js/main.js)
 - [**scss**](src/scss)
@@ -33,6 +52,7 @@
   - [\_vars.scss](src/scss/_vars.scss)
   - [\_vendor.scss](src/scss/_vendor.scss)
   - [main.scss](src/scss/main.scss)
+- [index.html](src/index.html)
 
 [.babelrc](.babelrc)
 
